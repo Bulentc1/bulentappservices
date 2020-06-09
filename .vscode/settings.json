@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7a7cf1ca-7b00-4817-82c0-3765f91aa21a/resourceGroups/rg-bulent/providers/Microsoft.Web/sites/bulentappservices",
+    "appService.deploySubpath": "."
+}
